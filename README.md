@@ -1,6 +1,6 @@
 # Improving Model Accuracy with Transfer Learning, Data Augmentation, LR Finder, and much More
 
-[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/ml-showcase/notebook/ruqvgyv4ddgwdqk?file=notebook.ipynb)
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/ml-showcase/notebook/rm1q33p0ql2yitz?file=improving_notebook.ipynb)
 
 This repo is for readers from the blogpost linked here:  
 blog.paperspace.com/improving-model-accuracy
